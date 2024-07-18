@@ -1,0 +1,29 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.6.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="DTO\" />
+    <None Remove="Model\" />
+    <None Remove="Servie\" />
+    <None Remove="Interface\" />
+    <None Remove="Domain\" />
+    <None Remove="Config\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="DTO\" />
+    <Folder Include="Model\" />
+    <Folder Include="Servie\" />
+    <Folder Include="Interface\" />
+    <Folder Include="Domain\" />
+    <Folder Include="Config\" />
+  </ItemGroup>
+</Project>
