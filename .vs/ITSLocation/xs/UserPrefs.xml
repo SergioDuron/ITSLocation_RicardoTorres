@@ -1,0 +1,31 @@
+﻿<Properties GitUserInfo="UsingMD" StartupConfiguration="{16A02850-50C2-427B-A44E-48BCFA0DB4E3}|Default">
+  <MonoDevelop.Ide.ItemProperties.ITSLocation.API.UnitTesting FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ITSLocation/Interface/EmptyInterface.cs">
+    <Files>
+      <File FileName="ITSLocation/Controllers/WeatherForecastController.cs" Line="34" Column="1" />
+      <File FileName="ITSLocation/Interface/EmptyInterface.cs" Line="9" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ITSLocation" expanded="True">
+            <Node name="ITSLocation" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="Interface" expanded="True" />
+              <Node name="Properties" expanded="True" />
+            </Node>
+            <Node name="ITSLocation.API.UnitTesting" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.ITSLocation PreferredExecutionTarget="/Applications/Firefox.app" FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+</Properties>
